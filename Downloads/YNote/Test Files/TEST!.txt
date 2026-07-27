@@ -1,0 +1,19 @@
+# Ignore build folders
+/build-*/
+/build/
+
+# Ignore Qt Creator user-specific files
+*.pro.user
+*.user
+*.qbs.user
+*.qbs.user.*
+*.pro.user.*
+
+# Ignore compiled objects and temporary files
+*.o
+*.obj
+*.dll
+*.exe
+*.log
+*.qrc.depends
+*.qrc.releases
