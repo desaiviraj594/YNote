@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Text_to_PDF_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF",
+	"CMAKE_SOURCE_DIR" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Text_to_PDF_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/Resources/color-wheel.png",
+		"C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/Resources/Untitled.png",
+		"C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/Resources/pencil-clipart-pencil.png",
+		"C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/Resources/Bold.png",
+		"C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/Resources/document.png"
+	],
+	"LOCK_FILE" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/Text_to_PDF_autogen.dir/AutoRcc_Icons_and_Images_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Icons_and_Images" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Icons_and_Images.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.9.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/Text_to_PDF_autogen.dir/AutoRcc_Icons_and_Images_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/Icons_and_Images.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

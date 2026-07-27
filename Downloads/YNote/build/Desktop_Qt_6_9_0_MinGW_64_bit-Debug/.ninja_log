@@ -1,0 +1,13 @@
+# ninja log v6
+304	3457	7727379980733975	CMakeFiles/Text_to_PDF.dir/mainwindow.cpp.obj	c5a9af5c1f1500d2
+58	303	7727379978278493	Text_to_PDF_autogen/timestamp	a48079fb101d242f
+1335	5701	7727379279264625	CMakeFiles/Text_to_PDF.dir/main.cpp.obj	15f03a08b5767b81
+58	303	7727379978278493	C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Text_to_PDF_autogen/timestamp	a48079fb101d242f
+58	303	7727379978278493	Text_to_PDF_autogen/mocs_compilation.cpp	a48079fb101d242f
+58	303	7727379978278493	C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Text_to_PDF_autogen/mocs_compilation.cpp	a48079fb101d242f
+1329	5944	7727379279199461	CMakeFiles/Text_to_PDF.dir/Text_to_PDF_autogen/mocs_compilation.cpp.obj	83fc86f384c1fbcc
+3457	3790	7727380012266603	Text_to_PDF.exe	c1c5adbce8958bfb
+208	340	7726487068071278	Text_to_PDF_autogen/EWIEGA46WW/qrc_Icons_and_Images.cpp	7c7adeac57844c97
+208	340	7726487068071278	C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Text_to_PDF_autogen/EWIEGA46WW/qrc_Icons_and_Images.cpp	7c7adeac57844c97
+829	2558	7726650437442625	CMakeFiles/Text_to_PDF.dir/Text_to_PDF_autogen/EWIEGA46WW/qrc_Icons_and_Images.cpp.obj	2a5e0bae6f1e5a02
+7	887	7726650427699046	build.ninja	b8aef3b2f892568a

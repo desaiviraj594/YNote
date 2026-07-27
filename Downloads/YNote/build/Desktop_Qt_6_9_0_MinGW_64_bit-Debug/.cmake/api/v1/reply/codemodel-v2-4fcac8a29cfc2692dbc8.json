@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-83829e808da506e047a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Text_to_PDF",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Text_to_PDF::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Text_to_PDF-Debug-669f6d7644843ce61725.json",
+					"name" : "Text_to_PDF",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Text_to_PDF_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Text_to_PDF_autogen-Debug-305f481dad2c18ecab08.json",
+					"name" : "Text_to_PDF_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Text_to_PDF_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Text_to_PDF_autogen_timestamp_deps-Debug-cc536fe5b9f65a4263bc.json",
+					"name" : "Text_to_PDF_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/yasha/Portfolio/Main Projects/Text_to_PDF"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
